@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jc.content.message">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/native/libs/jc.content.message.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

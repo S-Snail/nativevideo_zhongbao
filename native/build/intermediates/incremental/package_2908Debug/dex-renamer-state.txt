@@ -1,0 +1,7 @@
+#Mon Apr 09 09:58:05 CST 2018
+base.0=D\:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\transforms\\dex\\_2908\\debug\\folders\\1000\\10000\\instant-run-bootstrap_012a5cf24f7dba322f9c5af428f4309c38a61fc0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\transforms\\dex\\_2908\\debug\\folders\\1000\\10000\\instant-run_5b2448a3c48d07e81be2fd9379959dface89dd96\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\transforms\\dex\\_2908\\debug\\folders\\1000\\10000\\instant-run_5b2448a3c48d07e81be2fd9379959dface89dd96
+file.0=D\:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\transforms\\dex\\_2908\\debug\\folders\\1000\\10000\\instant-run-bootstrap_012a5cf24f7dba322f9c5af428f4309c38a61fc0\\classes.dex

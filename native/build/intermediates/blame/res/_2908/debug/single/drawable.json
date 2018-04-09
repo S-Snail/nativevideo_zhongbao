@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\dialog_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\grey_rectangle.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\grey_rectangle.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\custom_tab_indicator.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\custom_tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\first_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\first_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\shape_notify.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\shape_notify.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\transparent.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\btn_check.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\btn_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\shape_bg_btn_exit_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\shape_bg_btn_exit_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\main_tab_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\main_tab_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\third_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\third_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\selector_btn_exit.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\selector_btn_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\point_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\point_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\point_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\point_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\shape_bg_btn_exit_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\shape_bg_btn_exit_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\scroll_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\scroll_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\sp_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\sp_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\serch_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\serch_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\point_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\point_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\second_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\second_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\dialogbk.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\dialogbk.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\bg_item.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\bg_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\btn_feed_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\btn_feed_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\white_grey_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable\\white_grey_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    }
+]

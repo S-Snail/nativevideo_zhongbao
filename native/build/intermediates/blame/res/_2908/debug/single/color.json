@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\tab_text_color.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\color\\tab_text_color.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\tab_text_color_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\color\\tab_text_color_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\color\\abc_primary_text_material_light.xml"
+    }
+]

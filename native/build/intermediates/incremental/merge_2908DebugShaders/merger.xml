@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidStudioProjects\nativevideo_zhongbao\native\src\main\shaders"/></dataSet><dataSet config="_2908"><source path="D:\AndroidStudioProjects\nativevideo_zhongbao\native\src\_2908\shaders"/></dataSet><dataSet config="debug"><source path="D:\AndroidStudioProjects\nativevideo_zhongbao\native\src\debug\shaders"/></dataSet><dataSet config="_2908Debug"><source path="D:\AndroidStudioProjects\nativevideo_zhongbao\native\src\_2908Debug\shaders"/></dataSet></merger>

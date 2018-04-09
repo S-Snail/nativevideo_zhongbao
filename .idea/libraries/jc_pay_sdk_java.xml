@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jc.pay.sdk.java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/native/libs/jc.pay.sdk.java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

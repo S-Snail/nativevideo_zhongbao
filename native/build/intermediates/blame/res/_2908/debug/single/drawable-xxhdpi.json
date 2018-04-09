@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable-xxhdpi\\title.png",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable-xxhdpi\\title.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable-xxhdpi\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable-xxhdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable-xxhdpi\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable-xxhdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable-xxhdpi\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable-xxhdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable-xxhdpi\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable-xxhdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable-xxhdpi\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable-xxhdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable-xxhdpi\\btn.png",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable-xxhdpi\\btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable-xxhdpi\\peise.png",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable-xxhdpi\\peise.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\res\\merged\\_2908\\debug\\drawable-xxhdpi\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\src\\main\\res\\drawable-xxhdpi\\vpi__tab_selected_focused_holo.9.png"
+    }
+]

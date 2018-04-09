@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jc.pay.plugin.model">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/native/libs/jc.pay.plugin.model.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\nativevideo_zhongbao\\native\\build\\intermediates\\incremental\\merge_2908DebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\LZC\\.android\\build-cache\\b046b9fb7f9f70cafcdfba884a77ec1a73f51dd5\\output\\res\\values-hdpi-v4\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 567
+                    }
+                }
+            }
+        ]
+    }
+]

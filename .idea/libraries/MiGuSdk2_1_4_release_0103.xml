@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MiGuSdk2.1.4_release_0103">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/native/libs/MiGuSdk2.1.4_release_0103.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

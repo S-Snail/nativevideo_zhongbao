@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/layout_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <com.chile.nativevideo.widget.NoScrollWebView
+                android:id="@+id/web"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"></com.chile.nativevideo.widget.NoScrollWebView>
+            <RelativeLayout
+                android:background="@color/black"
+                android:id="@+id/web_bg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </RelativeLayout>
+            <LinearLayout
+                android:id="@+id/title_layout"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dip"
+                    android:background="@color/black"
+                    android:orientation="horizontal">
+
+                    <RelativeLayout
+                        android:id="@+id/back_layout"
+                        android:layout_width="40dip"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="20dip">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:src="@drawable/bt_search_back_normal" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:id="@+id/title_play"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:text="电影名称"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_16" />
+
+
+                    <RelativeLayout
+                        android:id="@+id/collection_layout"
+                        android:layout_width="40dip"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="20dip">
+
+                        <ImageView
+                            android:id="@+id/btn_collect"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:src="@drawable/btn_detail_store_n" />
+                    </RelativeLayout>
+
+                </RelativeLayout>
+                <LinearLayout
+                    android:background="@color/black"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dip">
+
+                    <ImageView
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="20dip"
+                        android:src="@drawable/ic_iqiyi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+                android:background="@color/white"
+                android:layout_below="@id/web"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <LinearLayout
+                    android:padding="10dip"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_marginLeft="20dip"
+                        android:src="@drawable/ic_play_count"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_marginLeft="10dip"
+                        android:text="来源:  "
+                        android:textSize="@dimen/font_14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:text="爱奇艺"
+                        android:textSize="@dimen/font_14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+                <View
+                    android:background="@color/grey_30"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dip"/>
+                <LinearLayout
+                    android:padding="10dip"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_marginLeft="20dip"
+                        android:text="上映:  "
+                        android:textSize="@dimen/font_14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:id="@+id/date_play"
+                        android:text="2018"
+                        android:textSize="@dimen/font_14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout
+                    android:padding="10dip"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+
+                        android:layout_marginLeft="20dip"
+                        android:text="看点:  "
+                        android:textSize="@dimen/font_14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:id="@+id/tag_play"
+                        android:text="华语 武侠"
+                        android:textSize="@dimen/font_14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout
+                    android:padding="10dip"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+
+                        android:layout_marginLeft="20dip"
+                        android:text="简介:  "
+                        android:textSize="@dimen/font_14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:id="@+id/introduce_play"
+                        android:text=""
+                        android:textSize="@dimen/font_14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/layout_error"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:background="@color/black"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40dip">
+
+            <RelativeLayout
+                android:id="@+id/back_layout_new"
+                android:layout_width="40dip"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dip">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/bt_search_back_normal" />
+            </RelativeLayout>
+
+        </RelativeLayout>
+        <TextView
+            android:textColor="@color/black"
+            android:text="未找到内容"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+</LinearLayout>

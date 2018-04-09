@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jc.behavior.model">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/native/libs/jc.behavior.model.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

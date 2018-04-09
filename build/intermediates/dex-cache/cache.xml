@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\UpDataTool.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8604fdb6f23c4d0a4c4a71dfbb988d05f92d87c1">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\UpDataTool_ea184605584fdab84595a25c845211ce855b6b9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\utdid4all-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\utdid4all-1.0.4_2dccb4de1329a721a95381054fe096bf8c66d4e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\incremental-classes\_2908\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="cc59157703b83958d666dc5065951221b45a0158">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\10000\instant-run-bootstrap_012a5cf24f7dba322f9c5af428f4309c38a61fc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\fastjson-1.1.43.android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="55201133d499efaf33db67ece976c8e303d2de18">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\fastjson-1.1.43.android_7d6e5bbf24356a017d3a5e7c66d413f37074261b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.content.util.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ed22088ab1e3a78a2a6436fcbb1aace02eeb5bc6">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.content.util_371aa1b3101bf6bc404c97f210bd6ccd5ee822e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\android-async-http-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\android-async-http-1.4.8_d7690cd61bdbcf7c49143866f6157908504d47a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\libammsdk_883a7fb8e236fa81cb8d11bede6ae9c5026ea598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.pay.common.v2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d39445bfc5fe488d75a3a87d1d75afa1b3a884e3">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.pay.common.v2_be961fe32bb1024e6b18fe9ada8f1ae5cf6557d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jsoup-1.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jsoup-1.8.1_ca9594235fe1d270eec6cdb29b34ba6bc032afcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.pay.plugin.model.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="337793748d79d9324e8142cebb5795ecc63b9e14">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.pay.plugin.model_e0c2528692d58db00992982be806d85ca9c743dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.pay.message.v2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="05fd38afa9202f13cf4ae1490991ffc530fc92b1">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.pay.message.v2_1f6826a6b8df86da89a48bdd875ae1eee6c0b003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\alipaySdk-20151103.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="532e123a000537dcc0fc5bcbac1aeb4562be98af">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\alipaySdk-20151103_7be4d99508c14f7ccc72625c45f7906c1981ec3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\gson-2.2.4_0ad47f2c514fa1650f3c92ec96a4f6c2b743a222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.pay.sdk.java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="66762ae8cff60590f56455a3b7f2469cc8a68b6b">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.pay.sdk.java_abbeb068f12a4e515385749ee7396ea0e59508ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\MiGuSdk2.1.4_release_0103.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="79a39a911c4c172314fe92e991032c56fd413de7">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\MiGuSdk2.1.4_release_0103_fb08e1bcc5dc09759754845dae152bf854470164\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.content.sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8d2cdb22205142517497e698fb06ceaa580d9cf1">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.content.sdk_1d257b01e28f0fb91259ac68a8faeba2e9fe00c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.content.model.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2ff3f37e7fd74de582a6b168386b21c0afba7d56">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.content.model_5725bf8927ef0b829fa8c528241f6b12b51c2b97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.behavior.message.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="526ae7b8af59b364e2fd64213369882d545cba4d">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.behavior.message_8695d0e629275f90b0d04823108612c8aa58a109\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.behavior.model.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="33279b05c12d39a658772406ca5d55d3fd68953c">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.behavior.model_91b0ec66b2f5b99ad0e71089772d3a86fd464c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.behavior.sdk.java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="41149d853482b9f257b5eb9a90c79fb352e0b68d">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.behavior.sdk.java_681ba4f5e42d0920c0bb64ac8fba3da5a80b9148\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\CmVideoSdk_parnter_1.6_309500040040004_20170915172901.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f451be15abc4dc3b72bf460f31c25c6be9ba1474">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\CmVideoSdk_parnter_1.6_309500040040004_20170915172901_263ff911a57d56699bceb1bc6cf2795b4bcd46c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.content.message.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3f3297aa0c0d1c1c78ea57716db57cdd2001b714">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.content.message_cfe61322f44055afdd9834d97d50f8f885020fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\waf_v1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="833452878fff90c7e8f7067940fbf6cbf37d9457">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\waf_v1.1_af0c3f4893151182dbf4287d6e43d5dd093fce67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\incremental-runtime-classes\_2908\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\10000\instant-run_5b2448a3c48d07e81be2fd9379959dface89dd96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\umeng-analytics-v6.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c3b60518ca618748430276191918f78ab36bc4b5">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\umeng-analytics-v6.1.2_850ca7ba80f1da1d951b8830f998b7a98b84d621\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\nativevideo_zhongbao\native\libs\jc.pay.model.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e540dcc54246ed70ae584c12ac716f59ae062a43">
+        <dex dex="D:\AndroidStudioProjects\nativevideo_zhongbao\native\build\intermediates\transforms\dex\_2908\debug\folders\1000\2\jc.pay.model_e1fa184657a707098c625884ffa015cedde21de8\classes.dex" />
+    </item>
+
+</items>

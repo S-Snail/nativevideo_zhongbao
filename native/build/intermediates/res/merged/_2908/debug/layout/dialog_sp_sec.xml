@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="280dp"
+    android:layout_height="200dp"
+    android:layout_gravity="center"
+    android:background="@drawable/sp_bg"
+     >
+
+    <ImageView
+        android:id="@+id/sp_cancel_sec"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/migu_compact_close"
+        android:gravity="center"
+        android:text="取消"
+        android:textColor="#646464"
+        android:textSize="14dp" />
+
+    <LinearLayout
+        android:id="@+id/aaa"
+        android:layout_width="260dp"
+        android:layout_height="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="#ffffff"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/title_sp_sec1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CTV手机视频包月_信息费 ￥10.0"
+            android:textColor="#222222"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/bbb"
+        android:layout_width="260dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/aaa"
+        android:layout_centerHorizontal="true" >
+
+        <ImageView
+            android:id="@+id/title_sp_sec"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:background="@drawable/migu_compact_logo"
+            android:textColor="#333333"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/sp_confirm_sec"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+         
+            android:background="@drawable/selector_btn_exit"
+            android:gravity="center"
+            android:text="确认支付"
+            android:textColor="#ffff"
+            android:textSize="15dp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/ggg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bbb"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:drawableLeft="@drawable/migu_icon_shrink"
+        android:drawablePadding="4dp"
+        android:text="本支付由中国移动咪咕文化提供，付费金额将要从您的话费账户中扣除"
+        android:textColor="#909090"
+        android:textSize="8dp" />
+
+    <TextView
+        android:id="@+id/ccc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ggg"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="商品描述:信息费每月15元（自然月）"
+        android:visibility="gone"
+        android:textColor="#646464"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/ddd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ccc"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="提供商：北京华谊兄弟新媒体技术有限公司"
+        android:visibility="gone"
+        android:textColor="#646464"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/eee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ddd"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="客服电话：699070"
+        android:visibility="gone"
+        android:autoLink="phone"
+        android:textColor="#646464"
+        android:textSize="10dp" />
+
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jc.content.util">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/native/libs/jc.content.util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

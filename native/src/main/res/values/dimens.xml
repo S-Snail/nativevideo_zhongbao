@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_width">300dip</dimen>
+    <dimen name="font_13">13sp</dimen>
+    <dimen name="font_18">18sp</dimen>
+    <dimen name="font_16">16sp</dimen>
+    <dimen name="tab_width">50dip</dimen>
+    <dimen name="tab_height">55dip</dimen>
+    <dimen name="tab_icon_width">25dip</dimen>
+    <dimen name="tab_icon_height">25dip</dimen>
+    <dimen name="font_4">12sp</dimen>
+    <dimen name="font_3">16sp</dimen>
+    <dimen name="font_10">10sp</dimen>
+    <dimen name="font_14">14sp</dimen>
+</resources>
